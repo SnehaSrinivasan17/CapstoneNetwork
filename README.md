@@ -9,11 +9,17 @@ Attacks :
 5. SQL Injection
 
 Sampling: Random Under Sampling and SMOTE Over Sampling
+
 Feature Selection Method: RFE using RF
+
 Final Model Chosen: XGB 
 
 Members:
+
 Sameeraa Prinakaa 
+
 Sanjana S
+
 Sneha Srinivasan
+
 V Bavanika
