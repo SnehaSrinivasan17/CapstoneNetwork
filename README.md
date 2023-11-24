@@ -11,7 +11,7 @@ Comparing ML models for performing multi class classification on Benign and Mali
 
 - ***Sampling:*** Random Under Sampling and SMOTE Over Sampling
 - ***Feature Selection Method:*** RFE using RF
-- ***Final Model Chosen:*** XGBoost 
+- ***Final Model Chosen:*** XGBoost (Accuracy - 99.9023%)
 
 ***Members:***
 - Sameeraa Prinakaa 
