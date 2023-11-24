@@ -1,4 +1,4 @@
-# Capstone_Network
+# CapstoneNetwork
 Comparing ML models for performing multi class classification on Benign and Malicious instances from the CICIDS2018 Dataset.
 
 ***Attacks :***
